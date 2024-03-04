@@ -1,0 +1,5 @@
+About: Netflix About:Netflix is an online platform.It is american subscription video on demand over the top streaming service.At the mid of 2021 they have 200M subscribers globally.This dataset consists of movies and tv shows available on netflix.
+Analysis of User Behavior:
+Subscription Trends: Analyze how subscription types (Basic, Standard, Premium) relate to factors like user location, device usage, and account activity. Identify trends that might inform future Netflix subscription options.
+Content Preferences: Combine user data with movie/TV show information to see if there are correlations between demographics and viewing habits. This could be interesting for content creators or personalization algorithms.
+churn Rate Prediction: Use user data to build a model that predicts users who might cancel their subscriptions. This can help Netflix identify at-risk users and potentially develop targeted retention strategies.
